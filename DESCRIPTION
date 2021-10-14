@@ -1,0 +1,15 @@
+Package: conveniencefunctions
+Type: Package
+Title: Convenience functions for R for QBS181
+Version: 0.1.0
+Author: Isimeme Udu
+Author@R: person("Isimeme", "Udu", email = "isimeme.n.udu.gr@dartmouth.edu",role = c("aut", "cre")))
+Description: We provide general utilities for common tasks in the R program
+License: MIT
+Depends: R 
+Encoding: UTF-8
+LazyData: true
+Imports:
+  stats,
+  ggplot2
+Roxygenote: 7.1.0
